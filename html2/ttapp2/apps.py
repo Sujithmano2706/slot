@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class TtappConfig(AppConfig):
+class Ttapp2Config(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'ttapp'
+    name = 'ttapp2'
